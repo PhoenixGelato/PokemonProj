@@ -197,7 +197,6 @@ waterFunction = function () {
     Array.from(gridImages).map(function(x) {
         x.style.visibility = "hidden"
     });
-
     Array.from(fireType).map(function(x) {
         x.style.visibility = "visible"
     });
